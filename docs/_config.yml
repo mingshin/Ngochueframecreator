@@ -16,10 +16,10 @@
 ######################################################
 # NEEDED FOR GITHUB PAGES TO WORK WITH RELATIVE URLS #
 ######################################################
-baseurl: /avatar-framer
+baseurl: /Ngochueframecreator
 ######################################################
 
-title: Avatar Framer
+title: Tạo Avatar Ngoc Hue Wellness
 description: >- # this means to ignore newlines"
   A simple tool to create framed profile pictures for social media in support of a cause.
   Dynamically generate a static site based off of the number of frame images provided.
@@ -27,18 +27,18 @@ description: >- # this means to ignore newlines"
 # Copy
 # Fill in your copy for the title and steps here
 # 
-title-text: "Show you’re on #TeamBartlet by helping get out the vote on social media!"
-step-1: "Upload your picture or another square image below."
-step-2: "Use the photo tools to scale, rotate, and move your image over the preview."
-step-3: "Select your frame."
-step-4: "Download your new profile image!"
-step-5: "Post on social media using the hashtag #TeamBartlet."
-footer-text: "&copy; 2020 Campaign Works, Inc. All rights reserved."
+title-text: "Lan tỏa Hệ Sinh Thái sức khỏe và sắc đẹp #NgocHueWellness trên mạng xã hội"
+step-1: "Tải ảnh lên (Phù hợp nhất với khung ảnh hình vuông)."
+step-2: "Sử dụng công cụ để xoay chỉnh hình ảnh"
+step-3: "Chọn khung ảnh."
+step-4: "Tải ảnh mới về"
+step-5: "Thay đổi ảnh Avatar của bạn trên Facebook, Zalo và các mạng xã hội khác. Sử dụng hashtag #ngochuewellness"
+footer-text: "&copy; 2022 Ngoc Hue Wellness. All rights reserved."
 
 # Header Nav Link
 #
-nav-link: "http://google.com"
-nav-link-text: "Donate"
+nav-link: "http://ngochuewellness.com"
+nav-link-text: "Trang chủ"
 
 # Buttons and upload form
 # 
@@ -53,15 +53,15 @@ favicon: "favicon.ico"
 # Footer links
 # 
 footer-links:
-  - text: "Awesome page 1"
-    link: "http://google.com"
+   - text: "Trang chủ"
+    link: "http://ngochuewellness.com"
 
-  - text: "Other page 2"
-    link: "http://google.com"
+  - text: "Fanpage"
+    link: "http://fb.com/ngochuewellness"
 
-  - text: "Things!"
-    link: "http://google.com"
-
+  - text: "Booking"
+    link: "http://ngochuewellness.com/booking"
+    
 # Open Graph and Twitter Cards
 #
 og-title: Create your own avatar generating website
